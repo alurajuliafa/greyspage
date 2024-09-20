@@ -34,3 +34,17 @@ img {
     display: flex;
 
 }
+
+.fila {padding-left: 30px;
+padding-right:30px;
+
+}
+
+.fila-videos img {opacity: 0,5;
+height: 200px;
+
+}
+
+.fila-videos img:hover {
+    opacity: 1,0;
+}
